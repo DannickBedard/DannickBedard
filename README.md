@@ -5,7 +5,9 @@ It's a small web developement compagny. I am the main developer for the web app 
 
 ## 📫 How to reach me
 You can reach me by :
+
 - email : dannickbedard@gmail.com
+
 Look on my website for more info : https://dannickbedard.com/
 
 ## 👯 I’m looking to collaborate on
@@ -13,8 +15,11 @@ On all the projects that fascinate me!
 
 ## ⚡ Fun fact
 I love all kind of sport! 
+
 My main sport is touring skiing in the powder!
+
 In the summer i love to montain bike.
+
 All year i go to my local climbing gym and trying to do v7 this year!
 
 
