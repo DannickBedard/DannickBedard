@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-## 🔭 I’m currently working at Proweb
-It's a small web developement compagny. I am the main developer for the web app in .net core and vue js framework.
+## 🔭 I’m currently working at Loginnove
+I am working on there main wep app Viridem, dans helping integration teams when they need help.
+https://www.loginnove.ca/
+https://www.viridem.ca/
 
 ## 📫 How to reach me
 You can reach me by :
