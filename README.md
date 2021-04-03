@@ -2,7 +2,9 @@
 
 ## 🔭 I’m currently working at Loginnove
 I am working on there main wep app Viridem, dans helping integration teams when they need help.
+
 https://www.loginnove.ca/
+
 https://www.viridem.ca/
 
 ## 📫 How to reach me
