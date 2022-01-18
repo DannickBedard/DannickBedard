@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## 🔭 I’m currently working at Loginnove
-I am working on there main wep app Viridem, dans helping integration teams when they need help.
+I am working on there main wep app Viridem, in helping integration teams when they need help.
 
 https://www.loginnove.ca/
 
