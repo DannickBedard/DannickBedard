@@ -20,12 +20,7 @@ On all the projects that fascinate me!
 ## ⚡ Fun fact
 I love all kind of sport! 
 
-My main sport is backcountry skiing and gym climbing.
-
-In the summer i love to montain bike and climbing outside.
-
-All year i go to my local climbing gym and trying to do v7 this year!
-
+My main sport is montain biking, gym climbing and backcountry skiing.
 
 <!--
 **DannickBedard/DannickBedard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
