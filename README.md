@@ -9,7 +9,7 @@ https://www.viridem.ca/
 
 ## Side projects
 
-I am developping website for clients.
+I am developping website for clients and working on personal project.
 
 ## 📫 How to reach me
 You can reach me by :
