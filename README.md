@@ -18,3 +18,6 @@ You can reach me by :
 
 Look on my website for more info : https://dannickbedard.com/
 
+# Link 
+Gist : https://gist.github.com/DannickBedard
+Repo : https://github.com/DannickBedard?tab=repositories
